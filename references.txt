@@ -1,0 +1,232 @@
+[1] "HL Crowell*°, Y Dong*, I Billato, P Cai, M Emons, S Gunz, B Guo, M Li, A Mahmoud, A Manukyan, H Pagès, P Panwar, S Rao, CJ Sargeant, L Shepherd Kern, M Ramos, J Sun, M Totty, VJ Carey, Y Chen, L Collado-Torres, S Ghazanfar, KD Hansen, K Martinowich, KR Maynard, E Patrick, D Righelli, D Risso, S Tiberi, L Waldron, R Gottardo†°, MD Robinson†°, SC Hicks†°, LM Weber†°. Orchestrating spatial transcriptomics analysis with Bioconductor. bioRxiv (2025). DOI: 10.1101/2025.11.20.688607"
+[1] "(* co-first. † co-senior. ° correspondence.)"
+[1] "Janesick, A., Shelansky, R., Gottscho, A.D. et al. High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis. Nat Commun 14, 8353 (2023). https://doi.org/10.1038/s41467-023-43458-x"
+Um Paket ‘OSTA.data’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Dong Y, Crowell H, Carey V (2025). _OSTA.data: OSTA book data_. doi:10.18129/B9.bioc.OSTA.data
+  <https://doi.org/10.18129/B9.bioc.OSTA.data>, R package version 1.0.0, <https://bioconductor.org/packages/OSTA.data>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {OSTA.data: OSTA book data},
+    author = {Yixing E. Dong and Helena L. Crowell and Vince Carey},
+    year = {2025},
+    note = {R package version 1.0.0},
+    url = {https://bioconductor.org/packages/OSTA.data},
+    doi = {10.18129/B9.bioc.OSTA.data},
+  }
+[1] ""
+Um Paket ‘tidyverse’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Wickham H, Averick M, Bryan J, Chang W, McGowan LD, François R, Grolemund G, Hayes A, Henry L, Hester J, Kuhn M, Pedersen TL, Miller
+  E, Bache SM, Müller K, Ooms J, Robinson D, Seidel DP, Spinu V, Takahashi K, Vaughan D, Wilke C, Woo K, Yutani H (2019). “Welcome to
+  the tidyverse.” _Journal of Open Source Software_, *4*(43), 1686. doi:10.21105/joss.01686 <https://doi.org/10.21105/joss.01686>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Article{,
+    title = {Welcome to the {tidyverse}},
+    author = {Hadley Wickham and Mara Averick and Jennifer Bryan and Winston Chang and Lucy D'Agostino McGowan and Romain François and Garrett Grolemund and Alex Hayes and Lionel Henry and Jim Hester and Max Kuhn and Thomas Lin Pedersen and Evan Miller and Stephan Milton Bache and Kirill Müller and Jeroen Ooms and David Robinson and Dana Paige Seidel and Vitalie Spinu and Kohske Takahashi and Davis Vaughan and Claus Wilke and Kara Woo and Hiroaki Yutani},
+    year = {2019},
+    journal = {Journal of Open Source Software},
+    volume = {4},
+    number = {43},
+    pages = {1686},
+    doi = {10.21105/joss.01686},
+  }
+[1] ""
+To cite Seurat in publications, please use:
+
+  Hao et al. Dictionary learning for integrative, multimodal and scalable single-cell analysis. Nature Biotechnology (2023) [Seurat V5]
+
+  Hao and Hao et al. Integrated analysis of multimodal single-cell data. Cell (2021) [Seurat V4]
+
+  Stuart and Butler et al. Comprehensive Integration of Single-Cell Data. Cell (2019) [Seurat V3]
+
+  Butler et al. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nat Biotechnol
+  (2018) [Seurat V2]
+
+  Satija and Farrell et al. Spatial reconstruction of single-cell gene expression data. Nat Biotechnol (2015) [Seurat V1]
+
+To see these entries in BibTeX format, use 'print(<citation>, bibtex=TRUE)', 'toBibtex(.)', or set 'options(citation.bibtex.max=999)'.
+[1] ""
+Um Paket ‘patchwork’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Pedersen T (2025). _patchwork: The Composer of Plots_. doi:10.32614/CRAN.package.patchwork
+  <https://doi.org/10.32614/CRAN.package.patchwork>, R package version 1.3.2, <https://CRAN.R-project.org/package=patchwork>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {patchwork: The Composer of Plots},
+    author = {Thomas Lin Pedersen},
+    year = {2025},
+    note = {R package version 1.3.2},
+    url = {https://CRAN.R-project.org/package=patchwork},
+    doi = {10.32614/CRAN.package.patchwork},
+  }
+[1] ""
+Um Paket ‘visiumStitched’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Eagles NJ, Collado-Torres L (2026). _Enable downstream analysis of Visium capture areas stitched together with Fiji_.
+  doi:10.18129/B9.bioc.visiumStitched <https://doi.org/10.18129/B9.bioc.visiumStitched>,
+  https://github.com/LieberInstitute/visiumStitched/visiumStitched - R package version 1.0.0,
+  <http://www.bioconductor.org/packages/visiumStitched>.
+
+  Eagles NJ, Bach S, Tippani M, Ravichandran P, Du Y, Miller RA, Hyde TM, Page SC, Martinowich K, Collado-Torres L (2024).
+  “visiumStitched.” _BMC Genomics_. doi:10.1186/s12864-024-10991-y <https://doi.org/10.1186/s12864-024-10991-y>,
+  <doi.org/10.1186/s12864-024-10991-y>.
+
+To see these entries in BibTeX format, use 'print(<citation>, bibtex=TRUE)', 'toBibtex(.)', or set 'options(citation.bibtex.max=999)'.
+[1] ""
+Um Paket ‘pheatmap’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Kolde R (2025). _pheatmap: Pretty Heatmaps_. doi:10.32614/CRAN.package.pheatmap <https://doi.org/10.32614/CRAN.package.pheatmap>, R
+  package version 1.0.13, <https://CRAN.R-project.org/package=pheatmap>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {pheatmap: Pretty Heatmaps},
+    author = {Raivo Kolde},
+    year = {2025},
+    note = {R package version 1.0.13},
+    url = {https://CRAN.R-project.org/package=pheatmap},
+    doi = {10.32614/CRAN.package.pheatmap},
+  }
+[1] ""
+SpatialExperiment is described in the following publication:
+
+  Righelli, Weber, and Crowell et al. (2022). SpatialExperiment: infrastructure for spatially-resolved transcriptomics data in R using
+  Bioconductor. Bioinformatics, 38(11), 3128-3131.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Article{,
+    title = {SpatialExperiment: infrastructure for spatially-resolved transcriptomics data in R using Bioconductor},
+    author = {Dario Righelli and Lukas M. Weber and Helena L. Crowell and Brenda Pardo and Leonardo Collado-Torres and Shila Ghazanfar and Aaron T. L. Lun and Stephanie C. Hicks and Davide Risso},
+    journal = {Bioinformatics},
+    year = {2022},
+    volume = {38},
+    number = {11},
+    pages = {-3},
+    doi = {https://doi.org/10.1093/bioinformatics/btac299},
+  }
+[1] ""
+Um Paket ‘VisiumIO’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Ramos M, Righelli D, Crowell H (2025). _VisiumIO: Import Visium data from the 10X Space Ranger pipeline_.
+  doi:10.18129/B9.bioc.VisiumIO <https://doi.org/10.18129/B9.bioc.VisiumIO>, R package version 1.4.3,
+  <https://bioconductor.org/packages/VisiumIO>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {VisiumIO: Import Visium data from the 10X Space Ranger pipeline},
+    author = {Marcel Ramos and Dario Righelli and Helena Crowell},
+    year = {2025},
+    note = {R package version 1.4.3},
+    url = {https://bioconductor.org/packages/VisiumIO},
+    doi = {10.18129/B9.bioc.VisiumIO},
+  }
+[1] ""
+Um Paket ‘hdf5r’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Hoefling H, Annau M (2025). _hdf5r: Interface to the 'HDF5' Binary Data Format_. doi:10.32614/CRAN.package.hdf5r
+  <https://doi.org/10.32614/CRAN.package.hdf5r>, R package version 1.3.12, <https://CRAN.R-project.org/package=hdf5r>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {hdf5r: Interface to the 'HDF5' Binary Data Format},
+    author = {Holger Hoefling and Mario Annau},
+    year = {2025},
+    note = {R package version 1.3.12},
+    url = {https://CRAN.R-project.org/package=hdf5r},
+    doi = {10.32614/CRAN.package.hdf5r},
+  }
+[1] ""
+Um Paket ‘devtools’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Wickham H, Hester J, Chang W, Bryan J (2026). _devtools: Tools to Make Developing R Packages Easier_.
+  doi:10.32614/CRAN.package.devtools <https://doi.org/10.32614/CRAN.package.devtools>, R package version 2.5.2,
+  <https://CRAN.R-project.org/package=devtools>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {devtools: Tools to Make Developing R Packages Easier},
+    author = {Hadley Wickham and Jim Hester and Winston Chang and Jennifer Bryan},
+    year = {2026},
+    note = {R package version 2.5.2},
+    url = {https://CRAN.R-project.org/package=devtools},
+    doi = {10.32614/CRAN.package.devtools},
+  }
+[1] ""
+Um Paket ‘RNiftyReg’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Clayden J, Modat M, Presles B, Anthopoulos T, Daga P (2026). _RNiftyReg: Image Registration Using the 'NiftyReg' Library_. R package
+  version 2.8.5, commit 3622de6a287965563b2fffcbdb0a92ffe72f9d10, <https://github.com/jonclayden/RNiftyReg>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {RNiftyReg: Image Registration Using the 'NiftyReg' Library},
+    author = {Jon Clayden and Marc Modat and Benoit Presles and Thanasis Anthopoulos and Pankaj Daga},
+    year = {2026},
+    note = {R package version 2.8.5, commit 3622de6a287965563b2fffcbdb0a92ffe72f9d10},
+    url = {https://github.com/jonclayden/RNiftyReg},
+  }
+[1] ""
+Um Paket ‘png’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Urbanek S (2026). _png: Read and write PNG images_. doi:10.32614/CRAN.package.png <https://doi.org/10.32614/CRAN.package.png>, R
+  package version 0.1-9, <https://CRAN.R-project.org/package=png>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {png: Read and write PNG images},
+    author = {Simon Urbanek},
+    year = {2026},
+    note = {R package version 0.1-9},
+    url = {https://CRAN.R-project.org/package=png},
+    doi = {10.32614/CRAN.package.png},
+  }
+[1] ""
+Um Paket ‘pals’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Wright K (2025). _pals: Color Palettes, Colormaps, and Tools to Evaluate Them_. doi:10.32614/CRAN.package.pals
+  <https://doi.org/10.32614/CRAN.package.pals>, R package version 1.10, <https://CRAN.R-project.org/package=pals>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {pals: Color Palettes, Colormaps, and Tools to Evaluate Them},
+    author = {Kevin Wright},
+    year = {2025},
+    note = {R package version 1.10},
+    url = {https://CRAN.R-project.org/package=pals},
+    doi = {10.32614/CRAN.package.pals},
+  }
+[1] ""
+Um Paket ‘spacexr’ in Publikationen zu zitieren, nutzen Sie bitte:
+
+  Cable D (2025). _spacexr: SpatialeXpressionR: Cell type identification and cell type-specific differential expression in spatial
+  transcriptomics_. R package version 2.2.1, commit 698d5b09e6f70d75d7a5284cf90f8ba4adcb7205, <https://github.com/dmcable/spacexr>.
+
+Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+
+  @Manual{,
+    title = {spacexr: SpatialeXpressionR: Cell type identification and cell
+type-specific differential expression in spatial
+transcriptomics},
+    author = {Dylan Cable},
+    year = {2025},
+    note = {R package version 2.2.1, commit 698d5b09e6f70d75d7a5284cf90f8ba4adcb7205},
+    url = {https://github.com/dmcable/spacexr},
+  }
+
+ACHTUNG: Diese Zitationsinformation wurde aus der DESCRIPTION-Datei automatisch generiert. Evtl. ist manuelle Nachbearbeitung nötig,
+siehe ‘help("citation")’.
